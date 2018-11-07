@@ -1,0 +1,6 @@
+F:\LWJGame\TableTool\TableTool\TableTool\obj\Debug\MyTableTool.csprojResolveAssemblyReference.cache
+F:\LWJGame\TableTool\TableTool\TableTool\bin\Debug\TableTool.exe.config
+F:\LWJGame\TableTool\TableTool\TableTool\bin\Debug\TableTool.exe
+F:\LWJGame\TableTool\TableTool\TableTool\bin\Debug\TableTool.pdb
+F:\LWJGame\TableTool\TableTool\TableTool\obj\Debug\TableTool.exe
+F:\LWJGame\TableTool\TableTool\TableTool\obj\Debug\TableTool.pdb

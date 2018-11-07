@@ -1,0 +1,36 @@
+[Error]
+Log：My Event Msg
+UnityEngine.Debug:LogError(Object)
+UITest:MsgCallBack(Int32, Object[]) (at Assets/Scripts/UI/UITest.cs:23)
+GameEventDelegate:ProceEvent(Object[]) (at Assets/Scripts/Manager/BaseEvent.cs:78)
+GameEventManager:SendMsg(Int32, Object[]) (at Assets/Scripts/Manager/GameEventManager.cs:127)
+GameEventManager:SendMsg(ClientMsgId, Object[]) (at Assets/Scripts/Manager/GameEventManager.cs:120)
+UnityGUI:OnGUI() (at Assets/Scripts/UI/UnityGUI.cs:11)
+
+[Error]
+Log：My Event Msg2
+UnityEngine.Debug:LogError(Object)
+UITest:MsgCallBack2(Int32, Object[]) (at Assets/Scripts/UI/UITest.cs:28)
+GameEventDelegate:ProceEvent(Object[]) (at Assets/Scripts/Manager/BaseEvent.cs:78)
+GameEventManager:SendMsg(Int32, Object[]) (at Assets/Scripts/Manager/GameEventManager.cs:127)
+GameEventManager:SendMsg(ClientMsgId, Object[]) (at Assets/Scripts/Manager/GameEventManager.cs:120)
+UnityGUI:OnGUI() (at Assets/Scripts/UI/UnityGUI.cs:11)
+
+[Error]
+Log：My Event Msg
+UnityEngine.Debug:LogError(Object)
+UITest:MsgCallBack(Int32, Object[]) (at Assets/Scripts/UI/UITest.cs:23)
+GameEventDelegate:ProceEvent(Object[]) (at Assets/Scripts/Manager/BaseEvent.cs:78)
+GameEventManager:SendMsg(Int32, Object[]) (at Assets/Scripts/Manager/GameEventManager.cs:127)
+GameEventManager:SendMsg(ClientMsgId, Object[]) (at Assets/Scripts/Manager/GameEventManager.cs:120)
+UnityGUI:OnGUI() (at Assets/Scripts/UI/UnityGUI.cs:11)
+
+[Error]
+Log：My Event Msg2
+UnityEngine.Debug:LogError(Object)
+UITest:MsgCallBack2(Int32, Object[]) (at Assets/Scripts/UI/UITest.cs:28)
+GameEventDelegate:ProceEvent(Object[]) (at Assets/Scripts/Manager/BaseEvent.cs:78)
+GameEventManager:SendMsg(Int32, Object[]) (at Assets/Scripts/Manager/GameEventManager.cs:127)
+GameEventManager:SendMsg(ClientMsgId, Object[]) (at Assets/Scripts/Manager/GameEventManager.cs:120)
+UnityGUI:OnGUI() (at Assets/Scripts/UI/UnityGUI.cs:11)
+

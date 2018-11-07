@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LwjGame.Plugins", "LwjGame.Plugins.csproj", "{7C0CAB01-108A-DC29-CD0E-0C5BB89B19E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LwjGame", "LwjGame.csproj", "{DC917C3B-832A-D03B-0927-E0AA7E5C3341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LwjGame.Editor.Plugins", "LwjGame.Editor.Plugins.csproj", "{7EAF1F22-FBAD-D37F-0FEF-6A3AF4E8C802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LwjGame.Editor", "LwjGame.Editor.csproj", "{327E6490-E467-18AA-1B84-CF226A9FD44D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C0CAB01-108A-DC29-CD0E-0C5BB89B19E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0CAB01-108A-DC29-CD0E-0C5BB89B19E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0CAB01-108A-DC29-CD0E-0C5BB89B19E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0CAB01-108A-DC29-CD0E-0C5BB89B19E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC917C3B-832A-D03B-0927-E0AA7E5C3341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC917C3B-832A-D03B-0927-E0AA7E5C3341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC917C3B-832A-D03B-0927-E0AA7E5C3341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC917C3B-832A-D03B-0927-E0AA7E5C3341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EAF1F22-FBAD-D37F-0FEF-6A3AF4E8C802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAF1F22-FBAD-D37F-0FEF-6A3AF4E8C802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAF1F22-FBAD-D37F-0FEF-6A3AF4E8C802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAF1F22-FBAD-D37F-0FEF-6A3AF4E8C802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327E6490-E467-18AA-1B84-CF226A9FD44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327E6490-E467-18AA-1B84-CF226A9FD44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327E6490-E467-18AA-1B84-CF226A9FD44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327E6490-E467-18AA-1B84-CF226A9FD44D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
