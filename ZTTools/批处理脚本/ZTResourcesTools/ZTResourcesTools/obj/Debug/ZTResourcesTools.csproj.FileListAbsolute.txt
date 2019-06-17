@@ -1,0 +1,6 @@
+F:\CodeTest\ZTResourcesTools\ZTResourcesTools\bin\Debug\ZTResourcesTools.exe.config
+F:\CodeTest\ZTResourcesTools\ZTResourcesTools\bin\Debug\ZTResourcesTools.exe
+F:\CodeTest\ZTResourcesTools\ZTResourcesTools\bin\Debug\ZTResourcesTools.pdb
+F:\CodeTest\ZTResourcesTools\ZTResourcesTools\obj\Debug\ZTResourcesTools.exe
+F:\CodeTest\ZTResourcesTools\ZTResourcesTools\obj\Debug\ZTResourcesTools.pdb
+F:\CodeTest\ZTResourcesTools\ZTResourcesTools\obj\Debug\ZTResourcesTools.csprojResolveAssemblyReference.cache
