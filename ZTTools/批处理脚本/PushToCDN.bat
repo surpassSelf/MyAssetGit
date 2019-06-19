@@ -5,9 +5,9 @@ set pth=Normal
 set lph1=zt_android\iOS
 set lph2=zt_android\Table
 set lph3=IosPackage\20190528ResList\ResourceList.txt
-set fip=192.168.5.119
+set fip=111.111.111.111
 set user=root
-set pass=shenghe2017
+set pass=********
 
 echo lcd %pth% >> %ftpcmd%
 echo cd %fph% >> %ftpcmd%
